@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  margin: 0 auto;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+td, th, tr {
+  border: 1px solid black;
+  text-align: center;
+  padding: 10px;
+}/*# sourceMappingURL=main.css.map */
